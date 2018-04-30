@@ -25,7 +25,7 @@ const buildingTypes = [
 
 ];
 
-const jsonFile = 'db.json';
+const jsonFile = 'final-test.json';
 
 let jsonOutput = {
     locations: [],
